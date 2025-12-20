@@ -7,7 +7,7 @@
 6. дописать 5 пункт
 5. Use Control + Shift + m to toggle the tab key moving focus.
 8. бем.
-9. д а
+9. д а/
 10. ы
 а.
 о
